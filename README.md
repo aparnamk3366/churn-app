@@ -11,4 +11,6 @@ This is a machine learning project that predicts whether a customer will churn o
 - app.py → Main Streamlit application
 - requirements.txt → Required Python libraries
 - model file → Trained ML model (if included)
+Customer Churn Prediction App using Streamlit and Machine Learning.
+This project predicts whether a customer will leave or stay.
 
